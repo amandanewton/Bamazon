@@ -5,7 +5,7 @@ Bamazon is an Amazon-like store front using Node.js and MySQL.
 ## How To Use Bamazon
 ### **Video Guide**
 
-Watch the video here: https://www.youtube.com/watch?v=SCrIqaXcbwI 
+Watch the video here: https://www.youtube.com/watch?v= 
 
 ### Prerequisites
 * Nodejs
