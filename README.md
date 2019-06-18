@@ -9,9 +9,7 @@ Watch the video here: https://www.youtube.com/watch?v=SCrIqaXcbwI
 
 ## Prerequisites
 * Nodejs
-* Create a MYSQL database called 'bamazondb', reference schema.sql
-- Node.js - Download the latest version of Node https://nodejs.org/en/
-- Create a MYSQL database called 'Bamazon', reference bamazon.sql
+* Create a MYSQL database called 'bamazondb', reference bamazon.sql
 
 ### **Step by Step instructions**
 
