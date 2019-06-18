@@ -26,7 +26,7 @@ Watch the video here: https://www.youtube.com/watch?v=SCrIqaXcbwI
     
     ![Results](/Screenshots/concert-this.PNG)
 
-## TECHNOLOGIES USED
+## Technologies Used
 * Javascript
 * Nodejs
 * NPM Packages:
