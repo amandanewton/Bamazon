@@ -24,7 +24,7 @@ Watch the video here: https://www.youtube.com/watch?v=
 1. The Bamazon store products will print to terminal and user is prompted to select product by ID number.
 2. User is prompted to select a quantity. If there is sufficient stock for the product selected the purchase total will be printed to the terminal and the stock quantity will be updated to refelct the purchase. If there is NOT sufficient stock for the product selected a message will be printed informing the user that there is not enough product in-stock.
     
-    ![Results](/Screenshots/concert-this.PNG)
+    ![Results](/Bamazon.PNG)
 
 ## Technologies Used
 * Javascript
